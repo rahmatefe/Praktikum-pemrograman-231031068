@@ -1,4 +1,4 @@
-# Praktikum-Pemerograman-231031068
+# Praktikum Pengantar Pemrograman
 <div> Nama : Rahmat Efendi </div>
 <div> Nim : 231031068 </div>
 <div> Prodi : Sistem Informasi C </div>
