@@ -6,7 +6,7 @@
 * Praktikum 1 : Pegenalan Variabel `praktikum-c1.py`
 * Praktikum 2 : Operator `praktikum-c2.py`
 * Praktikum 3 : Rangkaian Karakter (String) `prkatikum-c3.py`
-* Praktikum 4 : Programming `praktikum-c4.py` 
+* Praktikum 4 : `praktikum-c4.py` 
 * Praktikum 5 : `praktikum-c5.py`
 * Praktikum 6 : `praktikum-c6.py`
 * Praktikum 7 : `praktikum-c7.py`
