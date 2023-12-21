@@ -6,14 +6,13 @@
 * Praktikum 1 : Pegenalan Variabel `praktikum-c1.py`
 * Praktikum 2 : Operator `praktikum-c2.py`
 * Praktikum 3 : Rangkaian Karakter (String) `prkatikum-c3.py`
-* Praktikum 4 : 
-* Praktikum 5 :
-* Praktikum 6 :
-* Praktikum 7 :
-* Praktikum 8 :
+* Praktikum 4 : `praktikum-c4.py` 
+* Praktikum 5 : `praktikum-c5.py`
+* Praktikum 6 : `praktikum-c6.py`
+* Praktikum 7 : `praktikum-c7.py`
+* Praktikum 8 : `praktiukm-c8.py`
 * praktikum 9 : Pengenalan Variabel `praktikum-c9.py`
-* Praktikum 10 :
-* Praktikum 11 :
-* Praktikum 12 :
-* Praktikum 13 :
-  
+* Praktikum 10 : `praktikum-c10.py`
+* Praktikum 11 : `praktiukm-c11.py`
+* Praktikum 12 : `praktikum-c12.py`
+* Praktikum 13 : `praktiukm-c13.py`
